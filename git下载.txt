@@ -1,6 +1,7 @@
 www.git-scm.com
 下载安装
 
-命令
 
-git init
+使用命令：
+
+git init   /////git 初始化
